@@ -9,6 +9,11 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emotion/react": "^11.8.1",
+    "@emotion/styled": "^11.8.1",
+    "@mui/material": "^5.4.3",
+    "@mui/x-data-grid": "https://pkg.csb.dev/mui/mui-x/commit/56dfd9c8/@mui/x-data-grid",
+    "@mui/x-data-grid-pro": "https://pkg.csb.dev/mui/mui-x/commit/56dfd9c8/@mui/x-data-grid-pro",
     "next": "12.1.0",
     "react": "17.0.2",
     "react-dom": "17.0.2"
